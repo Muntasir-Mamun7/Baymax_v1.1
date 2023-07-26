@@ -101,7 +101,7 @@
     
 }
 .image-div:hover {
-    width: 400px;
+    width: 380px;
 }
 .image-b {
     height: 300px;
@@ -117,7 +117,7 @@
 }
 .image-b:hover {
     opacity: .9;
-    width: 400px;
+    width: 380px;
 }
 .image-1 {
     display: flex;
